@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563876029377028166/Untitled1155_20261025041532.png?ex=6adf388c&is=6adde70c&hm=dd96b1486297ecf333070d1a6bb252a6eb65e020f54c26bf310dc072dd889d19&" width="70%" alt="Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563876029377028166/Untitled1155_20261025041532.png?ex=6adf388c&is=6adde70c&hm=dd96b1486297ecf333070d1a6bb252a6eb65e020f54c26bf310dc072dd889d19&" width="90%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -28,6 +28,6 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563891178301030491/Untitled1160_20261025052454.png?ex=6adf46a8&is=6addf528&hm=b643f4e5a977a6f1bc9eaaf0b0038c3b9af73a5c41164a69ded431f3ee29c772&" width="70%" alt="Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563891178301030491/Untitled1160_20261025052454.png?ex=6adf46a8&is=6addf528&hm=b643f4e5a977a6f1bc9eaaf0b0038c3b9af73a5c41164a69ded431f3ee29c772&" width="90%" alt="Banner" />
 </div>
 

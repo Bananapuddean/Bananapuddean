@@ -8,7 +8,19 @@
 </div>
 
 <p align="center">
-  <font color="#580B1C"><b>temporary layout</b></font></p>
+  <font color="#580B1C"><b>temporary layout</b></font></p>  
+
+<p align="center">
+  <font color="#580B1C"><b>He , him  -  Dean/Castiel  -  15</b></font></p>
+  
+<p align="center">
+  <font color="#580B1C"><b>hi I'm really awkward and dry so i may come across as rude sometimes sorry 🍮 </b></font></p>
+  
+
+<p align="center">
+  <font color="#580B1C"><b>)Bmf bmf! im open to meeting new people, which im also trying to get used to (⇀‸↼‶) </b></font></p>
+  
+  
 
 <div align="center">
   <img 

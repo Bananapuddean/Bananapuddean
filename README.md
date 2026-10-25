@@ -8,8 +8,7 @@
 </div>
 
 <p align="center">
-  <font color="#580B1C"><b>temporary layout</b></font>
-</p>
+  <font color="#580B1C"><b>temporary layout</b></font></p>
 
 <div align="center">
   <img 

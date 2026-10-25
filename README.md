@@ -11,14 +11,14 @@
   <font color="#580B1C"><b>temporary layout</b></font></p>  
 
 <p align="center">
-  <font color="#580B1C"><b>He , him  -  Dean/Castiel  -  15</b></font></p>
+  <font color="#580B1C"><b>He , him  ,  Dean/Castiel , 15 🇵🇭🇨🇦</b></font></p>
   
 <p align="center">
   <font color="#580B1C"><b>hi i usually go by Dean. I'm really awkward and dry so i may come across as rude sometimes sorry </b></font></p>
   
 
 <p align="center">
-  <font color="#580B1C"><b>Bmf bmf! im open to meeting new people, which im also trying to get used to. it takes awhile for me to open up so please be patient (⇀‸↼‶) </b></font></p>
+  <font color="#580B1C"><b>Bmf bmf! im open and desperate to meeting new people, which im also trying to get used to. it takes awhile for me to open up so please be patient (⇀‸↼‶) </b></font></p>
   
   
 

@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563876029377028166/Untitled1155_20261025041532.png?ex=6adf388c&is=6adde70c&hm=dd96b1486297ecf333070d1a6bb252a6eb65e020f54c26bf310dc072dd889d19&" width="90%" alt="Banner" />
-</div>
 
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563888665212489841/Untitled1158_20261025051409.png?ex=6adf4451&is=6addf2d1&hm=ec88a99e12dada4d9caccf73585f5489d4d724675af00572483763dc902e3378&" width="50%" alt="Banner" />

@@ -25,7 +25,9 @@ $$\color{FFC5D3}{\text{5teen, anyone that’s out of my age range iwc.}}$$
   
 <div align="center">
 
-$\color{white}{\text{BYI: If your looking for rp please go away / I’m not the most chatty person when it comes to someone who I am unfamiliar with, so please don’t expect too much from me / I strongly encourage c+h or any interaction so please don’t be shy 😭 }}$$
+$\color{white}{\text{BYI: If your looking for rp please go away / 
+I’m not the most chatty person when it comes to someone who I am unfamiliar with, so please don’t expect too much from me /
+I strongly encourage c+h or any interaction so please don’t be shy 😭 }}$$
 
 </div>
 

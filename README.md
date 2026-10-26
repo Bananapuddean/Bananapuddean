@@ -6,8 +6,7 @@
 <p align="center">
 
 <div align="center">
-  <span style="color: #f8bdd0;"> He . him / Dean ‘ Castiel</span>
-</div>
+  <span style="color: #f8bdd0;"> He . him / Dean ‘ Castiel</span></div>
 
   
   

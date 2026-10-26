@@ -7,7 +7,12 @@
 
 <div align="center">
   <span style="color: #f8bdd0;"> He . him / Dean ‘ Castiel</span></div>
+  
+<div align="center">
 
+$$\color{blue}{\text{test}}$$
+
+</div>
   
   
 <div align="center">

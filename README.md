@@ -20,10 +20,10 @@
 
 <div align="center">
   <img 
-  src="https://cdn.discordapp.com/attachments/1563875516203663455/1563889460205326467/Untitled1159_20261025051501.png?ex=6adf450e&is=6addf38e&hm=7e9181a0f5b0e450285997ead6cf5bd7390874870e4cff1e94ed2a5448a2f046&" width="20%" alt="Banner" />
+  src="https://cdn.discordapp.com/attachments/1563875516203663455/1564174754146029598/1000077271.png?ex=6ae04ec2&is=6adefd42&hm=70d65a33dfece7018fed517ec7d27cbbf7b8997eb908b402dca4826b48fe4819&" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1563891178301030491/Untitled1160_20261025052454.png?ex=6adf46a8&is=6addf528&hm=b643f4e5a977a6f1bc9eaaf0b0038c3b9af73a5c41164a69ded431f3ee29c772&" width="90%" alt="Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564175012221427742/1000077260.gif?ex=6ae04eff&is=6adefd7f&hm=ccd4db9e5995543da0e4abe7589284d2ad19582534845b475aef7d989847c584&" width="90%" alt="Banner" />
 </div>
 

@@ -18,7 +18,7 @@
   
   
 <div align="center">
-  <img src="" width="80%" alt="Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564186393889083433/1000077278.png?ex=6ae05999&is=6adf0819&hm=cd4e91c1e1e89518a6e1db6162213ec1f057de3c19c219d1cffbd57bfb04c7af&" width="80%" alt="Banner" />
 </div>
 
 <div align="center">

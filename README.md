@@ -22,11 +22,6 @@
 </div>
 
 <div align="center">
-  <img 
-  src="https://cdn.discordapp.com/attachments/1563875516203663455/1564174754146029598/1000077271.png?ex=6ae04ec2&is=6adefd42&hm=70d65a33dfece7018fed517ec7d27cbbf7b8997eb908b402dca4826b48fe4819&" width="100%" alt="Banner" />
-</div>
-
-<div align="center">
   <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564175012221427742/1000077260.gif?ex=6ae04eff&is=6adefd7f&hm=ccd4db9e5995543da0e4abe7589284d2ad19582534845b475aef7d989847c584&" width="90%" alt="Banner" />
 </div>
 

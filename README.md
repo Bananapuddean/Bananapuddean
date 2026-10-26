@@ -34,7 +34,7 @@ I strongly encourage c+h or any interaction so please don’t be shy 😭
   <div align="center">
 
 
-$$\color{FFC5D3}{\text{Bmf bmf!! I’m open to meeting new people, in fact I’m trying to get over my fear of making new acquaintances , though I usually rely on them to make the first move.. I may come across as dry at first which can be mistaken for rudeness though I quickly open up }}$
+$$\color{FFC5D3}{\text{Bmf bmf!! I’m open to meeting new people, in fact I’m trying to get over my fear of making new acquaintances , though I usually rely on them to make the first move.. I may come across as dry at first which can be mistaken for rudeness though I quickly open up }}$$
 
 </div>
 

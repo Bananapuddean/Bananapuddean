@@ -17,6 +17,9 @@
   <font color="#580B1C"><b>Bmf bmf! im open and desperate to meeting new people, which im also trying to get used to. it takes awhile for me to open up so please be patient (⇀‸↼‶) </b></font></p>
   
   
+<div align="center">
+  <img src="" width="80%" alt="Banner" />
+</div>
 
 <div align="center">
   <img 

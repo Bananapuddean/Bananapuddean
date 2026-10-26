@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564165534822568059/Untitled1163_20261025233451.png?ex=6ae0462c&is=6adef4ac&hm=eaa3199d514b0188327455baed61acd931fea8a08a13b66979c0ce07710fee4f&" width="100%" alt="Banner" />
+</div>
 
 
 <div align="center">

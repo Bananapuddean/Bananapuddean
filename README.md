@@ -18,10 +18,6 @@
   
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564186393889083433/1000077278.png?ex=6ae05999&is=6adf0819&hm=cd4e91c1e1e89518a6e1db6162213ec1f057de3c19c219d1cffbd57bfb04c7af&" width="80%" alt="Banner" />
-</div>
-
-<div align="center">
   <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564175012221427742/1000077260.gif?ex=6ae04eff&is=6adefd7f&hm=ccd4db9e5995543da0e4abe7589284d2ad19582534845b475aef7d989847c584&" width="90%" alt="Banner" />
 </div>
 

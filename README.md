@@ -10,7 +10,7 @@
   
 <div align="center">
 
-$$\color{blue}{\text{test}}$$
+$$\color{FFC5D3}{\text{test}}$$
 
 </div>
   

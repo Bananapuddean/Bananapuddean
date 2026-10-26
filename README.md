@@ -4,17 +4,11 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1563875516203663455/1564166832930291732/1000077264.png?ex=6ae04761&is=6adef5e1&hm=e5bce8924419db1ee8640a4ff428e122d34097f7da5300cb0afd65a66e4e5657&" width="80%" alt="Banner" />
 <p align="center">
-  <font color="#580B1C"><b>temporary layout</b></font></p>  
 
-<p align="center">
-  <font color="#580B1C"><b>N/A</b></font></p>
-  
-<p align="center">
-  <font color="#580B1C"><b> </b></font></p>
-  
+<div align="center">
+  <span style="color: #f8bdd0;"> He . him / Dean ‘ Castiel</span>
+</div>
 
-<p align="center">
-  <font color="#580B1C"><b> (⇀‸↼‶) </b></font></p>
   
   
 <div align="center">

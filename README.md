@@ -39,7 +39,12 @@ $$\color{FFC5D3}{\text{Bmf bmf!! I’m open to meeting new people , in fact I’
 </div>
 
   <div align="center">
+    
   $$\color{FFC5D3}{\text{I may come across as dry at first which can be mistaken for rudeness but I open up pretty quickly}}$$
+
+  </div>
+
+  <div align="center">
 
   $$\color{white}{\text{English isn’t my first language so please let me know if I had made any spelling mistakes!}}$$
 
